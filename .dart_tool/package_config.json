@@ -1,0 +1,850 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "args",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/args-2.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/async-2.13.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/characters-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/clock-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "code_assets",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/code_assets-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "cross_file",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/cross_file-0.3.5+2",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/crypto-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/csslib-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "device_info_plus",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/device_info_plus-e28ea17fce1233d5b90a65eb492fc02a7b47b1e3/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "device_info_plus_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/device_info_plus_platform_interface-3be62502fab67002dc88f10ecefe3bd76cdab15c/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "diff_match_patch",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/diff_match_patch-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/fake_async-1.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/ffi-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "ffi_leak_tracker",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/ffi_leak_tracker-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/file-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "file_selector_linux",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/file_selector_linux-4204e4517b447d74b5cf59da44ff98272a1e314e/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "file_selector_macos",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/file_selector_macos-3e7504630f1d6a63887a31283f0b586e4af9119d/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "file_selector_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/file_selector_platform_interface-be3744b60dfb27e1392c90e0ccf765ca31023b2f/",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "file_selector_windows",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/file_selector_windows-4766fb4a7bf31d47e29b03bc56cd35c0934ec54e/",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "flutter_colorpicker",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/flutter_colorpicker-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "flutter_inappwebview",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview-b83f1427255082c5924af182c7618784d3618601/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_android",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_android-af155e8315701e43f2df15e7925e9eebace19433/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_internal_annotations",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_internal_annotations-7af6e455a557c16fa70e5683983367eacaabb7f8/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_ios",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_ios-36ad7fce418e76d9a6f69a703f1af1ba744fcf4b/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_linux",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_linux-a0b4c62c4c848842d11f9fa4ceb53860e51c8da1/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_macos",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_macos-6cd8f79b599cdd8f9c2af4e5ca7e8476035f1c4e/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_platform_interface-aa79c82c8c4437f04de35434da1f582f82905ad7/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_web",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_web-69bb103123107ea5a7c8e90109fe98d863f47082/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_inappwebview_windows",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_inappwebview_windows-aab8a3bf6553659744f76c1a6696240a5052b23c/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_keyboard_visibility",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility-df176204221c320f856c706b4566c8f7cdc2d714/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_keyboard_visibility_linux",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility_linux-9f33cb0279fbd2f535d346a5142ff4e7b9b05f86/",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "flutter_keyboard_visibility_macos",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility_macos-b03d586bd46d3f7496f7446df39ea8b26075c2f9/",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "flutter_keyboard_visibility_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility_platform_interface-9670a4f12e2640e3f159b638df01672992eb6056/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_keyboard_visibility_web",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility_web-89ac8cafcf29837abf5baa32727cba0ffc9c27bd/",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "flutter_keyboard_visibility_windows",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility_windows-84e8ac23454d310735c8bdd488664622783b0cb0/",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "flutter_math_fork",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_math_fork-a5efd1a50f753e54db1343f942bd9445c966a21a/",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_plugin_android_lifecycle-5d7bdb9066699230c8d64bc28cb31b9d60b4e8e0/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_quill",
+      "rootUri": "../../",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/flutter_svg-2.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "gettext_parser",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/gettext_parser-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/glob-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "holding_gesture",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/holding_gesture-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "hooks",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/hooks-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/html-0.15.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/http-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/http_parser-4.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "i18n_extension",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/i18n_extension-5effc49127e2f4e58341d6a5aa0817d15d1187d0/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "i18n_extension_core",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/i18n_extension_core-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker-05f7ec4ae40d36d9e05768d35ee7ad89b7a87ca8/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "image_picker_android",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_android-7fa77e5731a3f84faa0acb0f8b177fc3caec0dab/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "image_picker_for_web",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_for_web-be99bd2209ff5347a61c46e66ff53161e67d19e0/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "image_picker_ios",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_ios-ce47aaf80a4bcab2743650095ab991bc6cc26d38/",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "image_picker_linux",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_linux-3f4070f34e28daeb60434f5a5066a6b18ec26b77/",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "image_picker_macos",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_macos-dab3da8bfa9411cd6bbe26de3afd0ecfba91b468/",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_platform_interface-b92c953616545e40513c957158032c26ce4a0c9f/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "image_picker_windows",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_windows-e49b368a815d9b0b47c72720bd8a1b30d2e6d199/",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/intl-0.20.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "leak_tracker",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/leak_tracker-11.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/lints-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/logging-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/matcher-0.12.19",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/material_color_utilities-0.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "math_expressions",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/math_expressions-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "math_keyboard",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/math_keyboard-6ca478bfcff6455091524ed5e6f98d156fb317e8/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/mime-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "native_toolchain_c",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/native_toolchain_c-0.17.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "objective_c",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/objective_c-9.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "pasteboard",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/pasteboard-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path_parsing-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider-d3faba3247861212df44e5fab95df42bbd0183f3/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_android-10e7ff4a86fed777f2911b321e5b921c5d8e9b51/",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_foundation-3d32018c8b11f05485058de95b83822653e2a7b3/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_linux-9b0e2a86bf1983cb5c82a2a2b29426f16be49546/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_platform_interface-0e399288d800499fce3b215d24f32c115830be67/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_windows-a957fcb42f0c973b4cc3fd3542f109d79c1e3d9d/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/petitparser-7.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "photo_view",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/photo_view-0.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/platform-3.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/plugin_platform_interface-f19d3faf8d449aa73be0c3c71bd7e67fc0fb28bf/",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/provider-6.1.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/pub_semver-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/quiver-3.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "record_use",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/record_use-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "saver_gallery",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/saver_gallery-133bd801a14b8f9c75193c2690368d8d3ccf35b0/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences-23529ebf0da5f21b6c7d6845a772779bb4fdaca1/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "shared_preferences_android",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_android-af645e56df1716ff9bc4e68e44d5133af002a753/",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "shared_preferences_foundation",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_foundation-9cc1319b50ee22bf03c96627c0cd056f89f22baf/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_linux-3860cc9a95d76019877782e12b924817494f85ab/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_platform_interface-b9b47db3bdd696bed8891d9b5cd56bf4876838ef/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_web-48fc30804422dd2645608776f1992eabcbda2eb6/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_windows-59ddb2392dd4ef9c30b979a75dfd337c6eb5ed11/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/amitsharan/development/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/source_span-1.10.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/stack_trace-1.12.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/stream_channel-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/string_scanner-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "string_validator",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/string_validator-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/term_glyph-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "tuple",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/tuple-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher-eff7a563912e771ecbdaf783d7ddd1a26e584d19/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_android",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher_android-5288affb7883fd440b21bef8ac5a98076947b44f/",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "url_launcher_ios",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher_ios-6bee057709a4d0eeae60a9169101870c7ba14490/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher_linux-a08e988c38b8f1783a881993c3fc4717d06711d6/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher_macos-e9ebbd6921d55098f094b9fb025bc9caa58280a7/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher_platform_interface-b5ca29ecbf17fc7c3914948bf2986248ee894759/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher_web-ce748c65d1a40d0c0f71fd79ea058a0d4799ad86/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/url_launcher_windows-1697f91a996f13ae3adfc3f0264d43c2fd1499bd/",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/uuid-4.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "vector_graphics",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_graphics-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.13",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_math-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "video_player",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player-6c973f286e5dbb6d8d2350c08bcc310f89bd7887/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "video_player_android",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_android-9fc6bbe971a92c8341334e61c6cbdb9b8611398d/",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "video_player_avfoundation",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_avfoundation-315b7b863f5c214ee2ff44147ef8f141e99fe6d3/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "video_player_platform_interface",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_platform_interface-19eee9ffa4c24038c4485a467d2ef891e6c2f039/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "video_player_web",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_web-104c5b9345dc121563437d45ca43f320dbe01386/",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vm_service-15.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/win32-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "win32_registry",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/win32_registry-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/xdg_directories-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/xml-6.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/yaml-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "youtube_player_flutter",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/youtube_player_flutter-494bda16dbc7f5dbbd6eddaf37c1b00e3e6161a9/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "flutter_quill_extensions",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.11.5",
+  "flutterRoot": "file:///Users/amitsharan/development/flutter",
+  "flutterVersion": "3.41.9",
+  "pubCache": "file:///Users/amitsharan/.pub-cache"
+}
