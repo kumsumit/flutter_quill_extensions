@@ -20,6 +20,24 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "cached_network_image_ce",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/cached_network_image_ce-dff0fe2a8c0ada618d7eda888e3b7413a7dfb286/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "cached_network_image_platform_interface_ce",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/cached_network_image_platform_interface_ce-4837d0c4aefa5ccdf0a0d5b4c426ccf08cc289dd/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "cached_network_image_web_ce",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/cached_network_image_web_ce-1fee16432185c0c81fde7e1eb2b75c0265c52d58/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
       "name": "characters",
       "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/characters-1.4.1",
       "packageUri": "lib/",
@@ -284,6 +302,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "hive_ce",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/hive_ce-2.19.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "holding_gesture",
       "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/holding_gesture-1.2.0",
       "packageUri": "lib/",
@@ -380,6 +404,18 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "isolate_channel",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/isolate_channel-0.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/json_annotation-4.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/leak_tracker-11.0.2",
       "packageUri": "lib/",
@@ -464,6 +500,12 @@
       "languageVersion": "3.10"
     },
     {
+      "name": "octo_image",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/octo_image-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "pasteboard",
       "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/pasteboard-0.5.0",
       "packageUri": "lib/",
@@ -524,10 +566,10 @@
       "languageVersion": "3.8"
     },
     {
-      "name": "photo_view",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/photo_view-0.15.0",
+      "name": "photo_viewer",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/photo_viewer-f7de461bbe33e2d74ea848bc9b724fd16de5156b/",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.11"
     },
     {
       "name": "platform",

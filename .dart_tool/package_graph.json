@@ -12,7 +12,7 @@
         "http",
         "image_picker",
         "math_keyboard",
-        "photo_view",
+        "photo_viewer",
         "saver_gallery",
         "string_validator",
         "video_player",
@@ -105,9 +105,10 @@
       ]
     },
     {
-      "name": "photo_view",
-      "version": "0.15.0",
+      "name": "photo_viewer",
+      "version": "1.0.0",
       "dependencies": [
+        "cached_network_image_ce",
         "flutter"
       ]
     },
@@ -387,6 +388,22 @@
       "dependencies": [
         "csslib",
         "source_span"
+      ]
+    },
+    {
+      "name": "cached_network_image_ce",
+      "version": "4.6.4",
+      "dependencies": [
+        "cached_network_image_platform_interface_ce",
+        "cached_network_image_web_ce",
+        "crypto",
+        "file",
+        "flutter",
+        "hive_ce",
+        "http",
+        "octo_image",
+        "path",
+        "path_provider"
       ]
     },
     {
@@ -786,6 +803,49 @@
       ]
     },
     {
+      "name": "octo_image",
+      "version": "2.1.0",
+      "dependencies": [
+        "flutter"
+      ]
+    },
+    {
+      "name": "hive_ce",
+      "version": "2.19.3",
+      "dependencies": [
+        "crypto",
+        "isolate_channel",
+        "json_annotation",
+        "meta",
+        "web"
+      ]
+    },
+    {
+      "name": "file",
+      "version": "7.0.1",
+      "dependencies": [
+        "meta",
+        "path"
+      ]
+    },
+    {
+      "name": "cached_network_image_web_ce",
+      "version": "2.1.1",
+      "dependencies": [
+        "cached_network_image_platform_interface_ce",
+        "flutter",
+        "web"
+      ]
+    },
+    {
+      "name": "cached_network_image_platform_interface_ce",
+      "version": "5.2.0",
+      "dependencies": [
+        "file",
+        "flutter"
+      ]
+    },
+    {
       "name": "file_selector_windows",
       "version": "0.9.3+3",
       "dependencies": [
@@ -860,14 +920,6 @@
         "logging",
         "meta",
         "native_toolchain_c"
-      ]
-    },
-    {
-      "name": "file",
-      "version": "7.0.1",
-      "dependencies": [
-        "meta",
-        "path"
       ]
     },
     {
@@ -1073,6 +1125,20 @@
       "name": "flutter_inappwebview_internal_annotations",
       "version": "1.3.0",
       "dependencies": []
+    },
+    {
+      "name": "json_annotation",
+      "version": "4.12.0",
+      "dependencies": [
+        "meta"
+      ]
+    },
+    {
+      "name": "isolate_channel",
+      "version": "0.6.1",
+      "dependencies": [
+        "meta"
+      ]
     },
     {
       "name": "ffi_leak_tracker",
