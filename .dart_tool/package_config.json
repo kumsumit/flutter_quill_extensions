@@ -81,7 +81,7 @@
     },
     {
       "name": "device_info_plus",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/device_info_plus-e28ea17fce1233d5b90a65eb492fc02a7b47b1e3/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/device_info_plus-4f0f66089277101c049b67b5643eae4011fc6424/",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
@@ -155,7 +155,7 @@
       "name": "flutter",
       "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.10"
     },
     {
       "name": "flutter_colorpicker",
@@ -219,7 +219,7 @@
     },
     {
       "name": "flutter_keyboard_visibility",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility-df176204221c320f856c706b4566c8f7cdc2d714/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_keyboard_visibility-2a657f2909eb888e0bc774232297efce27eaa5d4/",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
@@ -261,7 +261,7 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_plugin_android_lifecycle-5d7bdb9066699230c8d64bc28cb31b9d60b4e8e0/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/flutter_plugin_android_lifecycle-38803dec28eac20a947579560bc5ee0a7870beb1/",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
@@ -273,7 +273,7 @@
     },
     {
       "name": "flutter_svg",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/flutter_svg-2.2.4",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/flutter_svg-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -281,13 +281,13 @@
       "name": "flutter_test",
       "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.10"
     },
     {
       "name": "flutter_web_plugins",
       "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.10"
     },
     {
       "name": "gettext_parser",
@@ -357,7 +357,7 @@
     },
     {
       "name": "image_picker_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_android-7fa77e5731a3f84faa0acb0f8b177fc3caec0dab/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/image_picker_android-618860f7afae01b1ce224a42bc6dccdb34deb0a2/",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
@@ -408,6 +408,18 @@
       "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/isolate_channel-0.6.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "jni",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/jni-48de04a334f07c773b6334a72a4c4d695bca61c7/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "jni_flutter",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/jni_flutter-cf0200754dd6e55887131e4574a1135eb5ebc9b7/",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
     },
     {
       "name": "json_annotation",
@@ -471,7 +483,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.17.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.18.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -506,6 +518,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "package_config",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/package_config-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "pasteboard",
       "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/pasteboard-0.5.0",
       "packageUri": "lib/",
@@ -531,9 +549,9 @@
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_android-10e7ff4a86fed777f2911b321e5b921c5d8e9b51/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_android-aaa2f06c118301b97329307430334c0d0011b773/",
       "packageUri": "lib/",
-      "languageVersion": "3.6"
+      "languageVersion": "3.11"
     },
     {
       "name": "path_provider_foundation",
@@ -549,13 +567,13 @@
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_platform_interface-0e399288d800499fce3b215d24f32c115830be67/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_platform_interface-6f8cac470cb4572a24fe5d5007833a07abe13bcf/",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.11"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_windows-a957fcb42f0c973b4cc3fd3542f109d79c1e3d9d/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/path_provider_windows-8473a1f5d530c008dce98020b1658bfc49358730/",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
@@ -567,7 +585,7 @@
     },
     {
       "name": "photo_viewer",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/photo_viewer-f7de461bbe33e2d74ea848bc9b724fd16de5156b/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/photo_viewer-ae19e674bb961aa7c2af964634a3facf6d04d3ec/",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
@@ -621,7 +639,7 @@
     },
     {
       "name": "shared_preferences_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_android-af645e56df1716ff9bc4e68e44d5133af002a753/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/shared_preferences_android-6667b33d50ff17f01f1768e9df11c874e683d92f/",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -659,7 +677,7 @@
       "name": "sky_engine",
       "rootUri": "file:///Users/amitsharan/development/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.10"
     },
     {
       "name": "source_span",
@@ -705,7 +723,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.10",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.11",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -777,7 +795,7 @@
     },
     {
       "name": "vector_graphics",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_graphics-1.2.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_graphics-1.2.2",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -789,7 +807,7 @@
     },
     {
       "name": "vector_graphics_compiler",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.2.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.2.3",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -807,7 +825,7 @@
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_android-9fc6bbe971a92c8341334e61c6cbdb9b8611398d/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/video_player_android-5ed3f30af1a6c1a32883c0e8755c6d1e1fb5fbf2/",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -843,7 +861,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/win32-6.1.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/win32-6.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -885,8 +903,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.11.5",
+  "generatorVersion": "3.12.0",
   "flutterRoot": "file:///Users/amitsharan/development/flutter",
-  "flutterVersion": "3.41.9",
+  "flutterVersion": "3.44.0",
   "pubCache": "file:///Users/amitsharan/.pub-cache"
 }

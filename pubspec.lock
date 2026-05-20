@@ -113,7 +113,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: e28ea17fce1233d5b90a65eb492fc02a7b47b1e3
+      resolved-ref: "4f0f66089277101c049b67b5643eae4011fc6424"
       url: "https://github.com/kumsumit/device_info_plus.git"
     source: git
     version: "13.1.0"
@@ -309,7 +309,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: df176204221c320f856c706b4566c8f7cdc2d714
+      resolved-ref: "2a657f2909eb888e0bc774232297efce27eaa5d4"
       url: "https://github.com/kumsumit/flutter_keyboard_visibility.git"
     source: git
     version: "5.4.3"
@@ -372,7 +372,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "5d7bdb9066699230c8d64bc28cb31b9d60b4e8e0"
+      resolved-ref: "38803dec28eac20a947579560bc5ee0a7870beb1"
       url: "https://github.com/kumsumit/flutter_plugin_android_lifecycle.git"
     source: git
     version: "2.0.27"
@@ -387,10 +387,10 @@ packages:
     dependency: transitive
     description:
       name: flutter_svg
-      sha256: "1ded017b39c8e15c8948ea855070a5ff8ff8b3d5e83f3446e02d6bb12add7ad9"
+      sha256: "35882981abcbfb8c15b286f0cd690ff25bac12d95eff3e25ee207f37d4c42e7f"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.4"
+    version: "2.3.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -496,7 +496,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "7fa77e5731a3f84faa0acb0f8b177fc3caec0dab"
+      resolved-ref: "618860f7afae01b1ce224a42bc6dccdb34deb0a2"
       url: "https://github.com/kumsumit/image_picker_android.git"
     source: git
     version: "0.8.13+17"
@@ -570,6 +570,24 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.1"
+  jni:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "48de04a334f07c773b6334a72a4c4d695bca61c7"
+      url: "https://github.com/kumsumit/jni.git"
+    source: git
+    version: "1.0.1-wip"
+  jni_flutter:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: cf0200754dd6e55887131e4574a1135eb5ebc9b7
+      url: "https://github.com/kumsumit/jni_flutter.git"
+    source: git
+    version: "1.0.1"
   json_annotation:
     dependency: transitive
     description:
@@ -655,10 +673,10 @@ packages:
     dependency: transitive
     description:
       name: meta
-      sha256: "23f08335362185a5ea2ad3a4e597f1375e78bce8a040df5c600c8d3552ef2394"
+      sha256: "1741988757a65eb6b36abe716829688cf01910bbf91c34354ff7ec1c3de2b349"
       url: "https://pub.dev"
     source: hosted
-    version: "1.17.0"
+    version: "1.18.0"
   mime:
     dependency: transitive
     description:
@@ -699,6 +717,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
+  package_config:
+    dependency: transitive
+    description:
+      name: package_config
+      sha256: f096c55ebb7deb7e384101542bfba8c52696c1b56fca2eb62827989ef2353bbc
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.0"
   pasteboard:
     dependency: transitive
     description:
@@ -737,10 +763,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "10e7ff4a86fed777f2911b321e5b921c5d8e9b51"
+      resolved-ref: aaa2f06c118301b97329307430334c0d0011b773
       url: "https://github.com/kumsumit/path_provider_android.git"
     source: git
-    version: "2.2.16"
+    version: "2.3.1"
   path_provider_foundation:
     dependency: transitive
     description:
@@ -764,7 +790,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "0e399288d800499fce3b215d24f32c115830be67"
+      resolved-ref: "6f8cac470cb4572a24fe5d5007833a07abe13bcf"
       url: "https://github.com/kumsumit/path_provider_platform_interface.git"
     source: git
     version: "2.1.2"
@@ -773,7 +799,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: a957fcb42f0c973b4cc3fd3542f109d79c1e3d9d
+      resolved-ref: "8473a1f5d530c008dce98020b1658bfc49358730"
       url: "https://github.com/kumsumit/path_provider_windows.git"
     source: git
     version: "2.3.0"
@@ -790,7 +816,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: f7de461bbe33e2d74ea848bc9b724fd16de5156b
+      resolved-ref: ae19e674bb961aa7c2af964634a3facf6d04d3ec
       url: "https://github.com/kumsumit/photo_viewer.git"
     source: git
     version: "1.0.0"
@@ -866,7 +892,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: af645e56df1716ff9bc4e68e44d5133af002a753
+      resolved-ref: "6667b33d50ff17f01f1768e9df11c874e683d92f"
       url: "https://github.com/kumsumit/shared_preferences_android.git"
     source: git
     version: "2.4.21"
@@ -980,10 +1006,10 @@ packages:
     dependency: transitive
     description:
       name: test_api
-      sha256: "8161c84903fd860b26bfdefb7963b3f0b68fee7adea0f59ef805ecca346f0c7a"
+      sha256: "949a932224383300f01be9221c39180316445ecb8e7547f70a41a35bf421fb9e"
       url: "https://pub.dev"
     source: hosted
-    version: "0.7.10"
+    version: "0.7.11"
   tuple:
     dependency: transitive
     description:
@@ -1084,10 +1110,10 @@ packages:
     dependency: transitive
     description:
       name: vector_graphics
-      sha256: "6409a25046024f0f8c5d8a59fec314081e81f9d436b66ca4015a8b49772bf445"
+      sha256: "2306c03da2ba81724afeb589c351ebbc0aa7d86005925be8f8735856dbe5e42d"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.0"
+    version: "1.2.2"
   vector_graphics_codec:
     dependency: transitive
     description:
@@ -1100,10 +1126,10 @@ packages:
     dependency: transitive
     description:
       name: vector_graphics_compiler
-      sha256: "06f0c50f88a1a020f95138dcc14ef4d5a039ced3f89b386209e6763dfa2cefa0"
+      sha256: b9b3f391857781aa96acacef96066f2f49b4cd03cf9fce3ca4d8da2ef5ea129e
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.1"
+    version: "1.2.3"
   vector_math:
     dependency: transitive
     description:
@@ -1126,7 +1152,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "9fc6bbe971a92c8341334e61c6cbdb9b8611398d"
+      resolved-ref: "5ed3f30af1a6c1a32883c0e8755c6d1e1fb5fbf2"
       url: "https://github.com/kumsumit/video_player_android.git"
     source: git
     version: "2.7.16"
@@ -1177,10 +1203,10 @@ packages:
     dependency: transitive
     description:
       name: win32
-      sha256: ba7d5750e3441caa1bbe31d9e516348fcf8dfcb32aa29ef87a844a59f4d1f1d0
+      sha256: a1fc9eb9248baa05dfc12ed5b66e377b3e23f095eec078e0371622b9033810d9
       url: "https://pub.dev"
     source: hosted
-    version: "6.1.0"
+    version: "6.2.0"
   win32_registry:
     dependency: transitive
     description:
