@@ -525,9 +525,9 @@
     },
     {
       "name": "pasteboard",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/pasteboard-0.5.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/pasteboard-e71e96dd2f994e1e977770b77fe750b85dd4a189/",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.11"
     },
     {
       "name": "path",
